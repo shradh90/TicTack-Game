@@ -1,4 +1,11 @@
 import java.util.Scanner;
+/**
+ *TO type a program for tic tack game.
+ *
+ * @author Shradha Desai
+ * @Since 19-06-2021
+*/
+
 
 public class TicTack {
 
